@@ -1,1 +1,1 @@
-# co-vue3-app
+# vue3-typescript-app
