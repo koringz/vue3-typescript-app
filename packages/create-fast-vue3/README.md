@@ -1,9 +1,9 @@
-# create-fast-vue3
+# create-vue3-typescript-app
 
-a scanffold to create vue3 project that use fast-vue3 template
+a scanffold to create vue3 project that use vue3-typescript-app template
 
 ## Usage
 
 ```bash
-npm init fast-vue3
+npm init vue3-typescript-app
 ```

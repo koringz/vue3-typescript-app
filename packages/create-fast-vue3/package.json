@@ -1,10 +1,10 @@
 {
-  "name": "create-fast-vue3",
+  "name": "create-vue3-typescript-app",
   "type": "module",
   "version": "0.0.13",
-  "description": "a easy way to create vue3 project based of fast-vue3 template",
+  "description": "a easy way to create vue3 project based of vue3-typescript-app template",
   "bin": {
-    "create-fast-vue3": "outfile.cjs"
+    "create-vue3-typescript-app": "outfile.cjs"
   },
   "files": [
     "outfile.cjs"
@@ -16,13 +16,13 @@
   "keywords": [
     "vue3",
     "vite",
-    "fast-vue3"
+    "vue3-typescript-app"
   ],
-  "homepage": "https://github.com/study-vue3/fast-vue3/tree/main/packages/create-fast-vue3#readme",
+  "homepage": "https://github.com/study-vue3/vue3-typescript-app/tree/main/packages/create-vue3-typescript-app#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/study-vue3/fast-vue3.git",
-    "directory": "packages/create-fast-vue3"
+    "url": "git+https://github.com/study-vue3/vue3-typescript-app.git",
+    "directory": "packages/create-vue3-typescript-app"
   },
   "author": "liulei",
   "license": "MIT",

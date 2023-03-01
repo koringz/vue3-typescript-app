@@ -1,4 +1,4 @@
-# Fast-Vue3 版本更新
+# vue3-typescript-app 版本更新
 
 ## v0.1.3-2022/06/09
 
